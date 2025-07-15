@@ -1,0 +1,5 @@
+Original (without Hyper Tuned Model) file size is more than 100 mb.
+
+So, I am uploaded the file in Google Drive, and providing its link. (I renamed the file to amaon_delivery_prediction_model_original.joblib)
+
+Link = "https://drive.google.com/file/d/1KUSjItPndP2ujaKXiqBJBIO-a8f9BmOj/view?usp=sharing"
